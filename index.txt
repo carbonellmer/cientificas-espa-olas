@@ -1,0 +1,68 @@
+<html>  
+
+<head>  
+
+	<title>Cientificas españolas</title>  
+
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon.png">  
+
+	<script type="text/javascript" src="script.js"></script> 
+
+	<link href="hoja_estilos.css" rel="stylesheet" type="text/css">  
+
+	<meta name="description" content="Trabajo científicas html">  
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">  
+
+	<meta name="robots" content="index, nofollow"> 
+	<style>
+		h1 {
+  color: black;
+  text-align: center;
+  border: 15px solid yellow;
+  padding: 50px;
+  margin: 20px;
+}
+
+body {
+  background-color: lightyellow;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+
+td{
+  color: black;
+  font-family: Serif;
+  font-size: 30px;
+  text-align: center;
+}
+	</style>
+
+</head> 
+ 
+  <body>
+    <head>
+      <h1>Científicas</h1>
+    </head>
+        
+  <table>
+    <tr>
+      <th><img src="https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/12/esa_portrait_of_sara_garcia_alonso/26494626-2-eng-GB/ESA_portrait_of_Sara_Garcia_Alonso_article.jpg" alt="Sara García Alonso"heigth="400" width="400"></th>
+     <th><img src="https://basquehealthcluster.org/wp-content/uploads/2021/09/Elena-Garcia-Armada.jpg"
+alt="Sara García Armada"heigth="200" width="200"></th>
+    </tr>
+    <tr>
+      <td><a href= "https://codepen.io/Zhu-the-decoder/full/VYYRbyd"> Sara García Alonso</a></td>
+      <td><a href= "https://codepen.io/Zhu-the-decoder/full/xbbBdpX">Elena García Armada</td>
+    </tr>
+  </table>
+
+  </body>
+
+</html>ml>
